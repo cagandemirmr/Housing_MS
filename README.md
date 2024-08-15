@@ -95,7 +95,7 @@ I created histogram from lotsize and change binsize from 16 to 10
 ![image](https://github.com/user-attachments/assets/1cea1d7a-c504-452e-9a44-fe6a06349396)
 ![image](https://github.com/user-attachments/assets/111dc762-1c4b-4e57-be3c-a02794bd0a79)
 
-I alsu use boxplot to define outliers which have 5 outliers.
+I also use boxplot to define outliers which have 5 outliers.
 
 ![image](https://github.com/user-attachments/assets/19bf2dca-c848-40a6-8531-8185d52bb6a8)
 
