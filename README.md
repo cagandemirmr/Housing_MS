@@ -79,6 +79,26 @@ Secondly I define type of variables.
 
 'driveaway', 'recroom','fullbase','gashw','airco' and 'prefarea' are categorical binary variables.
 
+![image](https://github.com/user-attachments/assets/19583b7b-ff56-4559-b13a-92cdcd508d59)
+Create new column named 'ID' to work easly in frequency tables.
+
+![image](https://github.com/user-attachments/assets/7d6d5b8d-69fc-4455-a0e8-a3c2417392c9)
+Also create squared difference column that firstly, take difference between average price and observence value in the cell and square the value.
+
+I created this column to find varience and standart deviation.
+
+By using Excel functions ı created descriptive statistic table.
+![image](https://github.com/user-attachments/assets/0a2cba7e-9407-4136-8596-27cbccbf5e8c)
+
+I created histogram from lotsize and change binsize from 16 to 10
+![image](https://github.com/user-attachments/assets/1cea1d7a-c504-452e-9a44-fe6a06349396)
+![image](https://github.com/user-attachments/assets/111dc762-1c4b-4e57-be3c-a02794bd0a79)
+
+I alsu use boxplot to define outliers.
+![image](https://github.com/user-attachments/assets/19bf2dca-c848-40a6-8531-8185d52bb6a8)
+
+
+
 
 
 
