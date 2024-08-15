@@ -1,5 +1,5 @@
 # Housing
-This is a real-life dataset consisting of housing sales prices in the city of Windsor, Ontario, Canada.I made an EDA project using MS.
+This is a real-life dataset consisting of housing sales prices in the city of Windsor, Ontario, Canada.
 ## About the Data Set
 
 a cross-section from 1987
