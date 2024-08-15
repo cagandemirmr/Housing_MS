@@ -10,11 +10,11 @@ observation : goods
 
 country : Canada
 
-Usage
+### Usage
 
 data(Housing)
 
-Format
+### Format
 A dataframe containing :
 
 price
